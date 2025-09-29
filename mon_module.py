@@ -28,4 +28,5 @@ def additionner_potions(total: int, nb: int) -> int:
     return total
 
 # allo
+# conflit
 # allo 2
