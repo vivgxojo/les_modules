@@ -1,3 +1,4 @@
+#Module pour gérer les potions
 def ajouter_potion(inventaire: list[str], potion: str) -> None:
     """
     Fonction pour ajouter une potion dans l'inventaire
