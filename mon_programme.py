@@ -1,9 +1,9 @@
 from mon_module import *
 
-mon_inventaire = ["Dégats", "Vitalité"]
-total_inventaire = 0
-total_copie = 0
-total_autre_copie = 0
+mon_inventaire : list[str] = ["Dégats", "Vitalité"]
+total_inventaire : int = 0
+total_copie : int = 0
+total_autre_copie : int = 0
 
 ajouter_potion(mon_inventaire, "Invisibilité")
 total_inventaire = additionner_potions(total_inventaire, 1)
