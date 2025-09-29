@@ -31,3 +31,4 @@ def additionner_potions(total: int, nb: int) -> int:
 # conflit
 # allo 2
 # allo 33333
+# allo 4
