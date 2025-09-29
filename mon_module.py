@@ -26,3 +26,5 @@ def additionner_potions(total: int, nb: int) -> int:
     """
     total += nb
     return total
+
+# allo
