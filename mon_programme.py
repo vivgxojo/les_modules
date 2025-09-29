@@ -16,7 +16,7 @@ total_autre_copie = total_inventaire # vrai copie de la variable
 ajouter_potion(mon_inventaire, "Guérison")
 total_inventaire = additionner_potions(total_inventaire, 1)
 
-ajouter_potion(mon_inventaire, "Vitesse")
+ajouter_potion(mon_inventaire, "Vitessssssssssssssse")
 total_inventaire = additionner_potions(total_inventaire, 1)
 
 print("Inventaire:", mon_inventaire, "Total:", total_inventaire)
