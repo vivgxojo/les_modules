@@ -1,7 +1,7 @@
 from mon_module import *
 
 mon_inventaire : list[str] = ["Dégats", "Vitalité"]
-total_inventaire : int = 0
+total_inventaire : int = 5
 total_copie : int = 0
 total_autre_copie : int = 0
 
