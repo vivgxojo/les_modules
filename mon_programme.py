@@ -1,6 +1,6 @@
 from mon_module import *
 
-mon_inventaire = []
+mon_inventaire = ["Dégats", "Vitalité"]
 total_inventaire = 0
 total_copie = 0
 total_autre_copie = 0
