@@ -1,5 +1,5 @@
 from mon_module import *
-
+# bonjour
 mon_inventaire : list[str] = ["Dégats", "Vitalité"]
 total_inventaire : int = 5
 total_copie : int = 0
